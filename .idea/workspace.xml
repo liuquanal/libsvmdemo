@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3e73bd9-f2e1-4f1a-887c-ac30cf01d7a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="libsvmdemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="/usr/maven/apache-maven-3.6.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WOKOcLKHGGzEAJb1X4UREDY2As" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/tdx/lq/libsvmdemo/libsvm" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tdx.lq.libsvmdemo.Demo" />
+      <module name="libsvmdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdx.lq.libsvmdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3e73bd9-f2e1-4f1a-887c-ac30cf01d7a4" name="Default Changelist" comment="" />
+      <created>1579015169669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579015169669</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579015870945">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="351" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.725@0.0.1366.725" timestamp="1579015870945" />
+    <state x="193" y="284" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579018985447">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="193" y="284" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.725@0.0.1366.725" timestamp="1579018985447" />
+    <state x="442" y="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579018987728">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="442" y="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.725@0.0.1366.725" timestamp="1579018987728" />
+    <state x="420" y="106" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579019020511">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="420" y="106" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.725@0.0.1366.725" timestamp="1579019020511" />
+    <state x="413" y="100" key="FileChooserDialogImpl" timestamp="1579018868056">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="413" y="100" key="FileChooserDialogImpl/0.0.1366.725@0.0.1366.725" timestamp="1579018868056" />
+    <state width="1320" height="167" key="GridCell.Tab.0.bottom" timestamp="1579023700265">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state width="1320" height="167" key="GridCell.Tab.0.bottom/0.0.1366.725@0.0.1366.725" timestamp="1579023700265" />
+    <state width="1320" height="167" key="GridCell.Tab.0.center" timestamp="1579023700264">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state width="1320" height="167" key="GridCell.Tab.0.center/0.0.1366.725@0.0.1366.725" timestamp="1579023700264" />
+    <state width="1320" height="167" key="GridCell.Tab.0.left" timestamp="1579023700264">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state width="1320" height="167" key="GridCell.Tab.0.left/0.0.1366.725@0.0.1366.725" timestamp="1579023700264" />
+    <state width="1320" height="167" key="GridCell.Tab.0.right" timestamp="1579023700265">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state width="1320" height="167" key="GridCell.Tab.0.right/0.0.1366.725@0.0.1366.725" timestamp="1579023700265" />
+    <state x="221" y="0" key="SettingsEditor" timestamp="1579017887973">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="221" y="0" key="SettingsEditor/0.0.1366.725@0.0.1366.725" timestamp="1579017887973" />
+    <state x="341" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1579017853753">
+      <screen x="0" y="0" width="1366" height="725" />
+    </state>
+    <state x="341" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.725@0.0.1366.725" timestamp="1579017853753" />
+  </component>
+</project>
